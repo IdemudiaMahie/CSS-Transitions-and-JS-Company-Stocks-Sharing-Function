@@ -1,0 +1,21 @@
+body {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(48, 104, 150);
+    filter: blur(9px);
+    background-color: #fff;
+}
+
+h1:hover, h1:focus {
+    color: #fff;
+    background-color: midnightblue;
+    filter: none;
+    transform: scale(100%, 150%) rotateY(720deg) translateY(50vh);
+    transition-property: all;
+    transition-duration: 15s;
+    transition-delay: 0.5s;
+}

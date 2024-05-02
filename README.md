@@ -1,0 +1,1 @@
+#   Can't remember why i did this again...though i remember trying to write a function for calculating number and equity percentage for a future company among i and my two co-founders.
